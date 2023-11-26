@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Mahmut Satici</h1>
 <h3 align="center">I'm 20 years old and studying Information Systems Engineering at Kocaeli University.</h3>
-<h3 align="center">- 📫 How to reach me **mahmuttsatici@gmail.com**</h3>
+<h3 align="center">- 📫 How to reach me mahmuttsatici@gmail.com</h3>
 
 
 <h3 align="center">Connect with me:</h3>
